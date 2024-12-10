@@ -27,6 +27,5 @@ Open your terminal in the project directory.
 Run the Streamlit app:
 bash
 Copy code
-``bash
 streamlit run app.py
 The application will open in your default web browser.
