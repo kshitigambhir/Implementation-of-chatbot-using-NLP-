@@ -18,14 +18,10 @@ This project is a simple chatbot built using **Streamlit**. It allows users to i
    ```bash
    git clone https://github.com/yourusername/chatbot-using-streamlit.git
    cd chatbot
-Install Streamlit:
-bash
-Copy code
-pip install streamlit
-Running the Application
-Open your terminal in the project directory.
-Run the Streamlit app:
-bash
-Copy code
-streamlit run app.py
-The application will open in your default web browser.
+## How to Install and Run the Application
+
+### Installation
+1. Ensure you have Python installed on your system.
+2. Install Streamlit using pip:
+   ```bash
+   pip install streamlit
